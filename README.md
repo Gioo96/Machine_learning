@@ -1,5 +1,5 @@
 # Machine_learning
-Homeworks concerning Linear Regression, Classification, Variable Selection & Regularization, Non-linear models, Unsupervised learning
+Homeworks concerning Linear Regression, Classification, Variable Selection & Regularization, Non-linear models, Unsupervised learning.
 ## HW 1
 #### Linear Regression on a Combined Cycle Power Plant (CCPP) data
 * Split data in training, validation and test sets
